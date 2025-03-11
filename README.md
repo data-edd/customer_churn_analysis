@@ -1,4 +1,4 @@
-![Customer Churn Dashboard](customer_churn_analysis.png)
+![Customer Churn Dashboard](Customer_Churn_Analysis.png)
 
-![Customer Risk Analysis](customer_risk_analysis.png)
+![Customer Risk Analysis](Customer_Risk_Analysis.png)
 
