@@ -1,2 +1,4 @@
+![Customer Churn Dashboard](Customer\ Churn\ Dashboard.png)
 
-![Promotion Analysis](https://github.com/data-edd/customer_churn_analysis/raw/main/assets/screenshot01.png)
+![Customer Risk Analysis](Customer\ Risk\ Analysis.png)
+
